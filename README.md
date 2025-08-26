@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Beautifull World 👋
 
 <!--
 **Hansfy/Hansfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@
 - 📊 Building **Malia Finance App**  
 - 📖 Passionate about **tech, history, philosophy, and ideas that shaped the world**  
 - ⚡ Believes tech should not only solve problems, but also reflect values & ethics  
-- 🎬 Interested in novel, game, and anime (for a bit of modern myth & storytelling)  
+- 🎬 Interested in novel, game, and anime
 
 ---
 
