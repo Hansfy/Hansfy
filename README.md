@@ -1,24 +1,18 @@
-## Hello Beautifull World 👋
+## Hello World 👋  
 
-<!--
-**Hansfy/Hansfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!-- Banner -->
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/wutheringwaves/images/7/7e/An_Unfinished_Song_1.jpeg/revision/latest/scale-to-width-down/1000?cb=20241006104406"/>
+  <img src="https://static.wikia.nocookie.net/wutheringwaves/images/7/7e/An_Unfinished_Song_1.jpeg/revision/latest/scale-to-width-down/1000?cb=20241006104406" width="600"/>
 </p>
 
-<h1 align="center">📚 Hansfy</h1>
-<h3 align="center">Developer | History & Philosophy Enthusiast</h3>
+<h1 align="center">Hansfy</h1>
+<h3 align="center">Developer</h3>
 
 ---
 
 ## 🌍 About Me  
 - 💻 Full-Stack Developer in progress  
-- 📊 Building **Malia Finance App**  
-- 📖 Passionate about **tech, history, philosophy, and ideas that shaped the world**  
-- ⚡ Believes tech should not only solve problems, but also reflect values & ethics  
-- 🎬 Interested in novel, game, and anime
+- 📊 Currently building **Malia Finance App**  
+- 📖 Interests: Tech, History, Philosophy, Agriculture  
 
 ---
 
@@ -29,7 +23,7 @@
 
 ---
 
-## 📊 GitHub Insights  
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hansfy&show_icons=true&theme=gruvbox" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansfy&layout=compact&theme=gruvbox" height="150" />
@@ -37,20 +31,6 @@
 
 ---
 
-## 🏛️ Interests  
-- **History:** Ancient civilizations, Islamic Golden Age, European Renaissance  
-- **Philosophy:** Stoicism, existentialism, postmodern thought  
-- **Tech & Society:** How technology reshapes human culture  
-
----
-
-## 🧭 Favorite Quotes  
-> *“He who has a why to live can bear almost any how.”* — Friedrich Nietzsche  
-> *“Study the past if you would define the future.”* — Confucius  
-
----
-
 <p align="center">
-  <b>⚔️ Code with reason. Build with meaning. Live with purpose. ⚔️</b>
+  ⚔️ *Live with purpose, keep learning, keep building.* ⚔️
 </p>
-
