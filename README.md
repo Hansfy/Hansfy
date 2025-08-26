@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/3FNp2qs/history-banner.jpg" width="800"/>
+  <img src="https://static.wikia.nocookie.net/wutheringwaves/images/7/7e/An_Unfinished_Song_1.jpeg/revision/latest/scale-to-width-down/1000?cb=20241006104406"/>
 </p>
 
 <h1 align="center">📚 Hansfy</h1>
@@ -31,8 +31,8 @@
 
 ## 📊 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zulfikar&show_icons=true&theme=gruvbox" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfikar&layout=compact&theme=gruvbox" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hansfy&show_icons=true&theme=gruvbox" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansfy&layout=compact&theme=gruvbox" height="150" />
 </p>
 
 ---
